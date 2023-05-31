@@ -1,4 +1,4 @@
- Typing Challenge
+# Speed typing game
 
 The Speed Typing Challenge is an engaging and interactive game designed to test and improve your typing speed and accuracy. It provides a fun and challenging way to enhance your typing skills while having a great time.
 
